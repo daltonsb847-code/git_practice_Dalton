@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Samantha Dalton 
 
 Gifty Brobbey!
+=======
+Samantha Dalton! 
+
+Gifty Brobbey
+>>>>>>> c5aef857eeec9eb3c8e5d609c26a8ee5b48f0071
